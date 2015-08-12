@@ -14,7 +14,7 @@
 # permissions and limitations under the License.
 
 # ELB_LIST defines which Elastic Load Balancers this instance should be part of.
-ELB_LIST="devops-bootcam-Elb-47B3G3V12WE3"
+ELB_LIST="devops-bootcam-Elb-17B3MKOHXMMRB"
 
 # Under normal circumstances, you shouldn't need to change anything below this line.
 # -----------------------------------------------------------------------------
